@@ -1,0 +1,443 @@
+--------------------------------------
+Running PBS prologue script
+--------------------------------------
+User and Job Data:
+--------------------------------------
+Job ID:    489948.qb3
+Username:  zach
+Group:     loniusers
+Date:      08-May-2018 16:49
+Node:      qb501 (107945)
+--------------------------------------
+PBS has allocated the following nodes:
+
+qb501
+
+A total of 24 processors on 1 nodes allocated
+---------------------------------------------
+Check nodes and clean them of stray processes
+---------------------------------------------
+Checking node qb501 16:49:21 
+Done clearing all the allocated nodes
+------------------------------------------------------
+Concluding PBS prologue script - 08-May-2018 16:49:21
+------------------------------------------------------
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+WARNING: BAM index file /work/zach/genome_practical/hybrid_assembly/sorted.bam.bai is older than BAM /work/zach/genome_practical/hybrid_assembly/sorted.bam
+------------------------------------------------------
+Running PBS epilogue script    - 08-May-2018 19:25:20
+------------------------------------------------------
+Checking node qb501 (MS)
+Checking node qb501 ok
+------------------------------------------------------
+Concluding PBS epilogue script - 08-May-2018 19:25:23
+------------------------------------------------------
+Exit Status:     0
+Job ID:          489948.qb3
+Username:        zach
+Group:           loniusers
+Job Name:        Pilon_run_Hybrid
+Session Id:      107944
+Resource Limits: ncpus=1,neednodes=1:ppn=24,nodes=1:ppn=24,walltime=04:00:00
+Resources Used:  cput=34:07:39,mem=122793848kb,vmem=136601832kb,walltime=02:36:01
+Queue Used:      bigmem
+Account String:  loni_selu_gt
+Node:            qb501
+Process id:      110039
+Last status:     08-May-2018:19:01 PBS_job=489948.qb3 user=zach allocation=loni_selu_gt queue=bigmem total_load=22.35 cpu_hours=23.56 wall_hours=1.26 unused_nodes=0 total_nodes=1 ppn=24 avg_load=22.35 avg_cpu=1881% avg_mem=112643mb avg_vmem=132330mb top_proc=zach:java:qb501:129G:110G:23.5hr:1881% toppm=zach:java:qb501:132941M:90850M node_processes=3 avg_avail_mem=1411680mb min_avail_mem=1411680mb reverified_avg_load=1.03
+------------------------------------------------------
