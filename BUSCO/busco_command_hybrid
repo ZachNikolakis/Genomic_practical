@@ -1,0 +1,18 @@
+#!/bin/bash
+#PBS -q workq
+#PBS -l nodes=1:ppn=20
+#PBS -l walltime=4:00:00
+#PBS -N busco_quantification_hybrid
+#PBS -o busco_hybrid.out
+#PBS -j oe
+#PBS -A loni_selu_gt
+#PBS -m abe
+#PBS -M zachary.nikolakis@selu.edu
+#module load python/2.7.10-anaconda
+module load boost/1.55.0/INTEL-14.0.2
+
+export AUGUSTUS_CONFIG_PATH=/work/zach/augustus/config/
+
+datapath=/work/zach/genome_practical/
+cd $datapath
+python ../busco/scripts/run_BUSCO.py -o busco_annotation -l ../clownfish_genome/data/busco/actinopterygii_odb9 -i hybrid_assembly/Hybrid_assembly.fasta -m geno -c 20 -sp zebrafish

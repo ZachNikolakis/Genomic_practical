@@ -1,0 +1,147 @@
+--------------------------------------
+Running PBS prologue script
+--------------------------------------
+User and Job Data:
+--------------------------------------
+Job ID:    489998.qb3
+Username:  zach
+Group:     loniusers
+Date:      08-May-2018 19:54
+Node:      qb082 (32688)
+--------------------------------------
+PBS has allocated the following nodes:
+
+qb082
+
+A total of 20 processors on 1 nodes allocated
+---------------------------------------------
+Check nodes and clean them of stray processes
+---------------------------------------------
+Checking node qb082 19:54:30 
+Done clearing all the allocated nodes
+------------------------------------------------------
+Concluding PBS prologue script - 08-May-2018 19:54:30
+------------------------------------------------------
+WARNING	An augustus species is mentioned in the config file, dataset default species (human) will be ignored
+INFO	****************** Start a BUSCO 3.0.2 analysis, current time: 05/08/2018 19:54:32 ******************
+INFO	Configuration loaded from /work/zach/busco/scripts/../config/config.ini
+INFO	Init tools...
+INFO	Check dependencies...
+INFO	Check input file...
+INFO	To reproduce this run: python ../busco/scripts/run_BUSCO.py -i hybrid_assembly/Hybrid_assembly.fasta -o busco_annotation -l ../clownfish_genome/data/busco/actinopterygii_odb9/ -m genome -c 20 -sp zebrafish
+INFO	Mode is: genome
+INFO	The lineage dataset is: actinopterygii_odb9 (eukaryota)
+INFO	Temp directory is ./tmp/
+INFO	****** Phase 1 of 2, initial predictions ******
+INFO	****** Step 1/3, current time: 05/08/2018 19:54:46 ******
+INFO	Create blast database...
+INFO	[makeblastdb]	Building a new DB, current time: 05/08/2018 19:54:53
+INFO	[makeblastdb]	New DB name:   /work/zach/genome_practical/tmp/busco_annotation_1276175808
+INFO	[makeblastdb]	New DB title:  hybrid_assembly/Hybrid_assembly.fasta
+INFO	[makeblastdb]	Sequence type: Nucleotide
+INFO	[makeblastdb]	Keep Linkouts: T
+INFO	[makeblastdb]	Keep MBits: T
+INFO	[makeblastdb]	Maximum file size: 1000000000B
+INFO	[makeblastdb]	Adding sequences from FASTA; added 6404 sequences in 17.2643 seconds.
+INFO	[makeblastdb]	1 of 1 task(s) completed at 05/08/2018 19:55:10
+INFO	Running tblastn, writing output to /work/zach/genome_practical/run_busco_annotation/blast_output/tblastn_busco_annotation.tsv...
+INFO	[tblastn]	1 of 1 task(s) completed at 05/08/2018 20:20:19
+INFO	****** Step 2/3, current time: 05/08/2018 20:20:19 ******
+INFO	Maximum number of candidate contig per BUSCO limited to: 3
+INFO	Getting coordinates for candidate regions...
+INFO	Pre-Augustus scaffold extraction...
+INFO	Running Augustus prediction using zebrafish as species:
+INFO	[augustus]	Please find all logs related to Augustus errors here: /work/zach/genome_practical/run_busco_annotation/augustus_output/augustus.log
+INFO	[augustus]	690 of 6892 task(s) completed at 05/08/2018 20:37:07
+INFO	[augustus]	1379 of 6892 task(s) completed at 05/08/2018 20:55:59
+INFO	[augustus]	2068 of 6892 task(s) completed at 05/08/2018 21:12:17
+INFO	[augustus]	2757 of 6892 task(s) completed at 05/08/2018 21:29:00
+INFO	[augustus]	3447 of 6892 task(s) completed at 05/08/2018 21:42:47
+INFO	[augustus]	4136 of 6892 task(s) completed at 05/08/2018 21:55:39
+INFO	[augustus]	4825 of 6892 task(s) completed at 05/08/2018 22:10:10
+INFO	[augustus]	5514 of 6892 task(s) completed at 05/08/2018 22:23:45
+INFO	[augustus]	6203 of 6892 task(s) completed at 05/08/2018 22:36:44
+INFO	[augustus]	6892 of 6892 task(s) completed at 05/08/2018 22:54:15
+INFO	Extracting predicted proteins...
+INFO	****** Step 3/3, current time: 05/08/2018 22:55:55 ******
+INFO	Running HMMER to confirm orthology of predicted proteins:
+INFO	[hmmsearch]	1379 of 6891 task(s) completed at 05/08/2018 22:56:05
+INFO	[hmmsearch]	3446 of 6891 task(s) completed at 05/08/2018 22:56:11
+INFO	[hmmsearch]	4135 of 6891 task(s) completed at 05/08/2018 22:56:13
+INFO	[hmmsearch]	4824 of 6891 task(s) completed at 05/08/2018 22:56:15
+INFO	[hmmsearch]	6202 of 6891 task(s) completed at 05/08/2018 22:56:18
+INFO	[hmmsearch]	6891 of 6891 task(s) completed at 05/08/2018 22:56:20
+INFO	Results:
+INFO	C:95.0%[S:91.9%,D:3.1%],F:2.8%,M:2.2%,n:4584
+INFO	4357 Complete BUSCOs (C)
+INFO	4213 Complete and single-copy BUSCOs (S)
+INFO	144 Complete and duplicated BUSCOs (D)
+INFO	127 Fragmented BUSCOs (F)
+INFO	100 Missing BUSCOs (M)
+INFO	4584 Total BUSCO groups searched
+INFO	****** Phase 2 of 2, predictions using species specific training ******
+INFO	****** Step 1/3, current time: 05/08/2018 22:56:24 ******
+INFO	Extracting missing and fragmented buscos from the ancestral_variants file...
+INFO	Running tblastn, writing output to /work/zach/genome_practical/run_busco_annotation/blast_output/tblastn_busco_annotation_missing_and_frag_rerun.tsv...
+INFO	[tblastn]	1 of 1 task(s) completed at 05/08/2018 23:10:18
+INFO	Maximum number of candidate contig per BUSCO limited to: 3
+INFO	Getting coordinates for candidate regions...
+INFO	****** Step 2/3, current time: 05/08/2018 23:10:20 ******
+INFO	Training Augustus using Single-Copy Complete BUSCOs:
+INFO	Converting predicted genes to short genbank files at 05/08/2018 23:10:20...
+INFO	All files converted to short genbank files, now running the training scripts at 05/08/2018 23:22:47...
+INFO	Pre-Augustus scaffold extraction...
+INFO	Re-running Augustus with the new metaparameters, number of target BUSCOs: 227
+INFO	[augustus]	43 of 430 task(s) completed at 05/08/2018 23:23:40
+INFO	[augustus]	86 of 430 task(s) completed at 05/08/2018 23:24:09
+INFO	[augustus]	129 of 430 task(s) completed at 05/08/2018 23:24:41
+INFO	[augustus]	172 of 430 task(s) completed at 05/08/2018 23:25:18
+INFO	[augustus]	215 of 430 task(s) completed at 05/08/2018 23:26:02
+INFO	[augustus]	258 of 430 task(s) completed at 05/08/2018 23:26:33
+INFO	[augustus]	301 of 430 task(s) completed at 05/08/2018 23:27:01
+INFO	[augustus]	344 of 430 task(s) completed at 05/08/2018 23:27:34
+INFO	[augustus]	387 of 430 task(s) completed at 05/08/2018 23:28:09
+INFO	[augustus]	430 of 430 task(s) completed at 05/08/2018 23:30:12
+INFO	Extracting predicted proteins...
+INFO	****** Step 3/3, current time: 05/08/2018 23:30:17 ******
+INFO	Running HMMER to confirm orthology of predicted proteins:
+INFO	[hmmsearch]	43 of 430 task(s) completed at 05/08/2018 23:30:17
+INFO	[hmmsearch]	129 of 430 task(s) completed at 05/08/2018 23:30:18
+INFO	[hmmsearch]	172 of 430 task(s) completed at 05/08/2018 23:30:18
+INFO	[hmmsearch]	215 of 430 task(s) completed at 05/08/2018 23:30:18
+INFO	[hmmsearch]	301 of 430 task(s) completed at 05/08/2018 23:30:18
+INFO	[hmmsearch]	387 of 430 task(s) completed at 05/08/2018 23:30:18
+INFO	[hmmsearch]	430 of 430 task(s) completed at 05/08/2018 23:30:18
+INFO	Results:
+INFO	C:96.3%[S:93.1%,D:3.2%],F:1.4%,M:2.3%,n:4584
+INFO	4417 Complete BUSCOs (C)
+INFO	4269 Complete and single-copy BUSCOs (S)
+INFO	148 Complete and duplicated BUSCOs (D)
+INFO	63 Fragmented BUSCOs (F)
+INFO	104 Missing BUSCOs (M)
+INFO	4584 Total BUSCO groups searched
+INFO	BUSCO analysis done with WARNING(s). Total running time: 12964.5039351 seconds
+INFO	Results written in /work/zach/genome_practical/run_busco_annotation/
+
+------------------------------------------------------
+Running PBS epilogue script    - 08-May-2018 23:30:36
+------------------------------------------------------
+Checking node qb082 (MS)
+Checking node qb082 ok
+------------------------------------------------------
+Concluding PBS epilogue script - 08-May-2018 23:30:38
+------------------------------------------------------
+Exit Status:     0
+Job ID:          489998.qb3
+Username:        zach
+Group:           loniusers
+Job Name:        busco_quantification_hybrid
+Session Id:      32687
+Resource Limits: ncpus=1,neednodes=1:ppn=20,nodes=1:ppn=20,walltime=04:00:00
+Resources Used:  cput=65:48:24,mem=27406516kb,vmem=29639992kb,walltime=03:36:08
+Queue Used:      workq
+Account String:  loni_selu_gt
+Node:            qb082
+Process id:      110451
+Last status:     08-May-2018:23:01 PBS_job=489998.qb3 user=zach allocation=loni_selu_gt queue=workq total_load=20.13 cpu_hours=0.68 wall_hours=2.20 unused_nodes=0 total_nodes=1 ppn=20 avg_load=20.13 avg_cpu=1972% avg_mem=17814mb avg_vmem=20004mb top_proc=zach:augustus:qb082:265M:244M:0.0hr:100% toppm=zach:augustus:qb082:2247M:2228M node_processes=23 avg_avail_mem=60849mb min_avail_mem=60849mb reverified_avg_load=14.99
+------------------------------------------------------
