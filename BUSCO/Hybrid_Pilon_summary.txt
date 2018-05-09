@@ -1,0 +1,3 @@
+Pilon assembly recovered a total of 5 more single copy orthologs than the hybrdi assembly.
+Pilon improved the assembly by  recovering more orthologs than the previous hybrid assembly.
+
